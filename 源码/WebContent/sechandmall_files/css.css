@@ -1,0 +1,30 @@
+BODY {
+	BACKGROUND-IMAGE: url(top_index_bg.jpgg); MARGIN: 0px; BACKGROUND-REPEAT: repeat-x
+}
+.top_index_daohang_text {
+	LINE-HEIGHT: 24px; COLOR: #ffffff; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+TD {
+	LINE-HEIGHT: 24px; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+.green_title {
+	LINE-HEIGHT: 24px; COLOR: #00923f; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.green_title01 {
+	LINE-HEIGHT: 24px; COLOR: #147700; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.green_title02 {
+	LINE-HEIGHT: 24px; COLOR: #0066cc; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.j_text {
+	COLOR: #aaaaaa; FONT-SIZE: 12px
+}
+A {
+	LINE-HEIGHT: 24px; COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.red {
+	LINE-HEIGHT: 24px; COLOR: #ee0000; FONT-SIZE: 12px; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
